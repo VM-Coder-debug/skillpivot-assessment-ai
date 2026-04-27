@@ -24,5 +24,10 @@ This project is an AI-powered SQL assessment system built using Google AI Studio
 - AI Prompt Optimization
 - UI/UX Improvements
 
+## 📸 Screenshots
+
+![UI](ui.png)
+![Assessment](assessment.png)
+![Results](results.png)
 ## 👤 Author
 GitHub: https://github.com/VM-Coder-debug
